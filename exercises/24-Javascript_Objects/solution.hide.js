@@ -44,6 +44,8 @@ function addAllFamilyLuckyNumbers(anArray) {
     return sumOfAllLuckyNumbers;
 }
 
+
+
 //Enter all your code here:
 person.luckyNumbers[3] = 33;
 
